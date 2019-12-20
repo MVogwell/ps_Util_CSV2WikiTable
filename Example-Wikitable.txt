@@ -1,0 +1,17 @@
+{| class='wikitable'
+!Column 1
+!Column 2
+!Column 3
+!Column 4
+|-
+|This is a comment
+|And this too
+|Yep another one
+|And this is the last
+|-
+|Line 2 Col 1
+|Line 2 Col 2
+|Line 2 Col 3
+|Line 2 Col 4
+|-
+|}
